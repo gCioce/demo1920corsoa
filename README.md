@@ -7,3 +7,6 @@ Aggiungo ulteriore testo.
 
 
 Ultima aggiunta, fine esercizio.
+
+
+Aggiunta per test
